@@ -2,6 +2,8 @@
 
 Welcome to the backend of **Chatio**, a real-time chat application. This backend is built using Node.js with Express and provides all the APIs and real-time functionalities required for the Chatio app. It integrates with MongoDB for data storage and uses various libraries for authentication, data security, and real-time communication.
 
+# Chatio Frontend
+https://github.com/priyamghorui/Chatio
 ---
 
 ## Features
